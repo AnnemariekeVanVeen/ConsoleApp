@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp.game.AI" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>game\AI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.game.Board" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEQAAAAAGAABECBAAAAARAAAAAAABAAgAACAASAACA=</HashCode>
+      <FileName>game\Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.game.Player" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKYAAAAAAAAACFAACAIAAAAAAEAAAAIAAAAQAABAA=</HashCode>
+      <FileName>game\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.handlers.ConsoleHandler" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAABABAAAAABAAAAAIAAAAAQAAAABAAAA=</HashCode>
+      <FileName>handlers\ConsoleHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.handlers.Input" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>handlers\GameHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.handlers.Settings" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAABAAAoAgAAAAAAEABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>handlers\GameHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.handlers.TranslateHandler" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>handlers\TranslateHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.models.Calculator" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAQAAAAAAAAACAAAAEAAAAAAAAAEACAAAAAA=</HashCode>
+      <FileName>models\Calculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.models.Person" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>models\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.models.Cat" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAQAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>models\Pet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.Dog" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAQAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>models\Pet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.Translate" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AmAIoVgAKgEAE0QKBggAiAQBUAEAACAhkCESAIEBIAg=</HashCode>
+      <FileName>models\Translate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.Circle" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAYAA=</HashCode>
+      <FileName>models\Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.Program" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.SnakeGame" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEMDAAIlggAgCAAAAiQAAIAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>SnakeGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.AddMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAIAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\AddMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.CloseConsoleMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\CloseConsoleMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.DivideMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAIAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\DivideMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.InsertNameMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAABAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\InsertNameMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.ItemReturn" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAEAAAAAAA=</HashCode>
+      <FileName>models\menuItems\ItemReturn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.ModuleMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAIAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\ModuleMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.PetMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\PetMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.ShowNameMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAABAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\ShowNameMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.SnakeMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAAQAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\SnakeMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.SubtractMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAIAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\SubtractMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.TickTacToeMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAABAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\TickTackToeMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ConsoleApp.models.menuItems.TranslateMenuItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEABAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\TranslateMenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Struct Name="ConsoleApp.game.Cell" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>game\Cell.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="ConsoleApp.models.IMenuItem" Collapsed="true">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>models\menuItems\MenuItemInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ConsoleApp.models.IPet" Collapsed="true">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>models\Pet.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ConsoleApp.handlers.Direction" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>handlers\GameHandler.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
